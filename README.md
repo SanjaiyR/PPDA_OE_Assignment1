@@ -23,6 +23,7 @@ The Library Management System is a simplified application that allows librarians
 - `transactions.csv` : Stores borrowing and returning activities (transaction ID, user ID, book ID, borrow date, return date).
 
 # 2. Student Management System
+[Click here](https://github.com/SanjaiyR/PPDA_OE_Assignment1/tree/main/Ques%202)
 
 ## Description:
 
@@ -42,6 +43,7 @@ The Student Management System is designed for a small educational institute to m
 - `grades.csv`: Stores grades for students (student ID, course ID, grade).
 
 # 3. Employee Management System
+[Click here](https://github.com/SanjaiyR/PPDA_OE_Assignment1/tree/main/Ques%203)
 
 ## Description:
 
@@ -60,6 +62,7 @@ The Employee Management System is intended for a mid-sized company to manage emp
 - `performance.csv`: Stores performance metrics for employees (employee ID, performance score, bonus).
 
 # 4. E-commerce Data Analyst
+[Click here](https://github.com/SanjaiyR/PPDA_OE_Assignment1/tree/main/Ques%204)
 
 ## Description:
 
@@ -81,6 +84,7 @@ The E-commerce Data Analyst project aims to help an e-commerce company understan
 - `reviews.csv`: Stores customer reviews and ratings.
 
 # 5. Retail Chain Data Analyst
+[Click here](https://github.com/SanjaiyR/PPDA_OE_Assignment1/tree/main/Ques%205)
 
 ## Description:
 
